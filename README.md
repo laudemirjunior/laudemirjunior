@@ -3,6 +3,7 @@
 Sempre fui apaixonado por tecnologia, mas nunca havia pensado em ter uma carreira na área até que me surgiu a oportunidade para estudar Desenvolvimento Full Stack na        Kenzie Academy Brasil em 2021.
 Então iniciei uma mudança de área profissional para TI. Estou-me inserindo no mercado de desenvolvimento, buscando uma oportunidade na área.
 
+<a href="https://portfolio-kappa-nine-37.vercel.app/"><button style={{backgroudColor: "black", color: "white"}}>Portfolio</button></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laudemirjr/)
 
 ![Laudemir GitHub stats](https://github-readme-stats.vercel.app/api?username=laudemirjunior&show_icons=true&theme=dracula&count_private=true)
