@@ -1,10 +1,9 @@
 ## Olá! Eu sou o Laudemir 🖐️
 
-Sempre fui apaixonado por tecnologia, mas nunca havia pensado em ter uma carreira na área até que me surgiu a oportunidade para estudar Desenvolvimento Full Stack na        Kenzie Academy Brasil em 2021.
-Então iniciei uma mudança de área profissional para TI. Estou-me inserindo no mercado de desenvolvimento, buscando uma oportunidade na área.
+Super entusiasmado e com muita vontade de aprender. Apaixonado por projetos e trabalhos que envolvem liderança e um senso de empreendedorismo muito forte. Sempre busco inovar e melhorar. Excelente comunicação e pensamento crítico. Estudar e codar é o que eu mais amo fazer na minha vida.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laudemirjr/)
-[![Portfolio](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fmonip.org)](https://portfolio-kappa-nine-37.vercel.app/)
+[![Portfolio](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fmonip.org)](https://portfolio-laudemirjunior.vercel.app/)
 
 <div align="center">
   <a href="https://github.com/laudemirjunior">
@@ -12,7 +11,7 @@ Então iniciei uma mudança de área profissional para TI. Estou-me inserindo no
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laudemirjunior&layout=compact&langs_count=5&theme=dracula"/>
 </div>
   
-## Tecnologias que eu uso
+## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,9 +19,7 @@ Então iniciei uma mudança de área profissional para TI. Estou-me inserindo no
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 
