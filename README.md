@@ -5,13 +5,11 @@ Então iniciei uma mudança de área profissional para TI. Estou-me inserindo no
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laudemirjr/)
 [![Whatssap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://portfolio-kappa-nine-37.vercel.app/](https://wa.me/qr/Z447EDB34FBGB1))
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nlaudemir@gmail.com)
-[![Portfolio](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fmonip.org)](https://portfolio-kappa-nine-37.vercel.app/)
 
 <div align="center">
   <a href="https://github.com/laudemirjunior">
   <img src="https://github-readme-stats.vercel.app/api?username=laudemirjunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laudemirjunior&layout=compact&langs_count=10&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laudemirjunior&layout=compact&langs_count=5&theme=dracula"/>
 </div>
   
 ## Tecnologias que eu uso
